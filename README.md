@@ -56,7 +56,7 @@ Folder `Visualisasi` menyimpan gambar hasil analisis dan pemodelan.
 | `confusion_matrix_comparison.png` | Perbandingan confusion matrix model                  |
 | `decision_tree_plot.png`          | Visualisasi struktur pohon keputusan                 |
 | `feature_importance.png`          | Visualisasi tingkat kepentingan atribut              |
-| `Status_Mahasiswa (after).png`    | Visualisasi status mahasiswa setelah pengolahan data |
+| `Status_Mahasiswa (before).png`   | Visualisasi status mahasiswa sebelum pengolahan data |
 | `Status_Mahasiswa(after).png`     | Visualisasi status mahasiswa setelah pengolahan data |
 
 ## ⚙️ Teknologi yang Digunakan
