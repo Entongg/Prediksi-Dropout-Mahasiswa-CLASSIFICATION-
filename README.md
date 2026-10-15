@@ -17,7 +17,7 @@ Project Data Mining/
 │   ├── confusion_matrix_comparison.png
 │   ├── decision_tree_plot.png
 │   ├── feature_importance.png
-│   ├── Status_Mahasiswa (after).png
+│   ├── Status_Mahasiswa (before).png
 │   └── Status_Mahasiswa(after).png
 │
 ├── evaluasi.py
